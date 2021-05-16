@@ -1,6 +1,7 @@
 # SMARTBRAIN
 
 ## App Created with React
+Register a new user and have fun detecting faces!!!
 ## 🌐 [https://smart-brain-dimitrimll.herokuapp.com/](https://smart-brain-dimitrimll.herokuapp.com/)
 [<img src="https://github.com/DimitriMll/DimitriMll/blob/main/assets/smart1.PNG">](https://smart-brain-dimitrimll.herokuapp.com/)
 [<img src="https://github.com/DimitriMll/DimitriMll/blob/main/assets/smart2.PNG">](https://smart-brain-dimitrimll.herokuapp.com/)
