@@ -1,3 +1,24 @@
+# SMARTBRAIN
+
+## App Created with React
+## 🌐 [https://smart-brain-dimitrimll.herokuapp.com/](https://smart-brain-dimitrimll.herokuapp.com/)
+[<img src="https://github.com/DimitriMll/DimitriMll/blob/main/assets/smart1.PNG">](https://smart-brain-dimitrimll.herokuapp.com/)
+[<img src="https://github.com/DimitriMll/DimitriMll/blob/main/assets/smart2.PNG">](https://smart-brain-dimitrimll.herokuapp.com/)
+[<img src="https://github.com/DimitriMll/DimitriMll/blob/main/assets/smart3.PNG">](https://smart-brain-dimitrimll.herokuapp.com/)
+[<img src="https://github.com/DimitriMll/DimitriMll/blob/main/assets/smart4.PNG">](https://smart-brain-dimitrimll.herokuapp.com/)
+
+## 🚀 Tecnologias utilizadas
+  - [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30">](https://reactjs.org/)
+  - [<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" width="30" height="30">](https://nodejs.org/)
+  - [<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="30" height="30">](https://www.postgresql.org/)
+  - [<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" whidth="30" height="30">](https://heroku.com/)
+  - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>](https://developer.mozilla.org/)
+  - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="25" height="25"/>](https://developer.mozilla.org/docs/Web/HTML)
+  - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="25" height="25"/>](https://developer.mozilla.org/docs/Web/CSS)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
